@@ -1,2 +1,4 @@
-package net.imjoycepg;public class OsoDiscord {
+package net.imjoycepg;
+
+public class OsoDiscord {
 }
